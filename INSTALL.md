@@ -20,7 +20,7 @@ option and unzip them.
 2. Open the configuration file of `spotify-tui` located in
    `~/.config/spotify-tui/config.yml`. If this file does not exist, a sample
    configuration file can be found in [the Spotify TUI
-   README](https://github.com/Rigellute/spotify-tui).
+   README](https://github.com/Rigellute/spotify-tui#configuration).
 3. Lastly, replace all the `theme` section with the copied contents obtained in
    the `dracula.yml` file.
 
