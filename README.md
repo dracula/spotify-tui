@@ -1,6 +1,6 @@
 # Dracula for [Spotify TUI](https://github.com/Rigellute/spotify-tui)
 
-> A dark theme for [Spotify TUI]((https://github.com/Rigellute/spotify-tui).
+> A dark theme for [Spotify TUI](https://github.com/Rigellute/spotify-tui).
 
 ![Screenshot](./screenshot.png)
 
