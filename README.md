@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Spotify TUI](https://github.com/Rigellute/spotify-tui)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Spotify TUI]((https://github.com/Rigellute/spotify-tui).
 
 ![Screenshot](./screenshot.png)
 
