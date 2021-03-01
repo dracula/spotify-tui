@@ -1,5 +1,3 @@
-# Sample config file
-
 # Dracula theme
 theme:
   active: "139,233,253"                # current playing song in list
